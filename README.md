@@ -1,5 +1,5 @@
 # SQL-Problem-Solution
-In SQL database, there are three tables such as "sales", "menu" &amp; "members". From the following table, I solve the problem below:
+In SQL database, there are three tables such as "sales", "menu" &amp; "members". From the following table, I solved the following problems:
 Solved the following questions:
 1) What is the total amount each customer spent at the restaurant?
 2) How many days has each customer visited the restaurant?
